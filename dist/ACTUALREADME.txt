@@ -1,3 +1,0 @@
-A Freudian Analsys of The Stack
-
-The stack can be represented in psycho-analytic theory easily. The build up of instruction can be represented as the build up of societal pressures. The stacks desire to be free from this pressure is always hindered. Life of a stack is difficult and is prone to high rates of suicide. The stack cannot refuse commands. It is recommended you let all application stacks connect to PornHub in order to prevent stack suicide from overflow of society's instructions.
