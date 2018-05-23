@@ -1,3 +1,5 @@
+Brotip: This is a joke project made for a Hackathon years ago. Nothing in here is serious at all. Ever.
+
 Project Name: SuperJava
 Primary Purpose: To build a 4 dimensional, neurally networked, sentient Java Program
 Secondary Purpose: To create a software package that allows for breathing underwater while beating up sharks and lighting them on fire
